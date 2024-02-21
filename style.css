@@ -1,0 +1,26 @@
+/*index*/
+* {
+    background-color : rgb(161, 181, 106);
+}
+.index{
+    background-color : rgb(161, 181, 106);
+    text-align : center;
+    font-family :'Courier New', Courier, monospace;
+}
+button{
+    background-color : rgb(229, 241, 198);
+    color : rgb(0, 0, 0);
+    font-size : 30px;
+    width : 140px;
+    font-family :Georgia, 'Times New Roman', Times, serif;
+
+}
+.biriyani h1, .manthi h1{
+    font-family :'Courier New', Courier, monospace;
+    font-size : 80px;
+}
+.biriyani h3, .manthi h3{
+    font-family :'Courier New', Courier, monospace;
+    font-size : 40px;
+    font-weight : 550;
+}
